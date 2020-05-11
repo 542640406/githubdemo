@@ -1,5 +1,5 @@
-修改
-//全局配置
+
+       //全局配置
 
         AutoGenerator mpg = new AutoGenerator();
 
